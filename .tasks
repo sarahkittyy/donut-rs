@@ -1,0 +1,7 @@
+[build]
+
+command=cargo build
+
+[run]
+
+command=cargo run
